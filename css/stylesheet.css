@@ -1,0 +1,92 @@
+.title {
+    font-family: noto-sans, sans-serif;
+    font-size: 50px;
+    font-weight: 700;
+    text-align: center;
+    color: #ffffff;
+    position: relative;
+    z-index: 100;
+}
+
+.red {
+    background-color: #772E25;
+    width:1600px;
+    height: 100px;
+    margin: auto;
+    position: relative;
+    margin-top:-120px;
+}
+
+.potato {
+    width: 700px;
+    position: relative;
+    float: right;
+    margin-right: 25px;
+    vertical-align: middle;
+    margin-top: 50px;
+}
+
+.ingredients {
+    width: 200px;
+    float: left;
+    padding-right: 40px;
+}
+
+.text {
+    width: 900px;
+    margin-left: 32px;
+    background-color: white;
+}
+
+.enjoy {
+    color: #197278;
+    font-family: noto-sans, sans-serif;
+    font-style: italic; 
+    text-align: center;
+    margin-top: 50px;
+}
+
+.list {
+    color:#772E25;
+    background-color: #EDDDD4;
+    font-family: noto-sans, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    width: 550px;
+    height: 290px;
+    position: relative;
+    left: 150px;
+    padding-left: 30px;
+    padding-top: 20px;
+    margin-top: 30px;
+}
+
+.hashbrowns {
+    width: 200px;
+}
+
+.steps img {
+    width: 100px;
+    position: relative;
+    margin-top: 50px;
+    margin-left: 50px;
+}
+
+.steps {
+    margin-left: 44px;
+}
+
+.directions {
+    color:#ffffff;
+    background-color: #772E25;
+    font-family: noto-sans, sans-serif;
+    font-weight: 400; 
+    font-style: normal;
+    width: 480px;
+    height: 125px;
+    position: relative;
+    text-align: center;
+    padding: 10px 50px 30px 50px;
+    left: 150px;
+    margin-top: 40px;
+}
